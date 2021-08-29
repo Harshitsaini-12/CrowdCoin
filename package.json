@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev" : "next dev"
+    "dev": "next dev"
   },
   "author": "harshit saini",
   "license": "ISC",
@@ -17,6 +17,9 @@
     "path": "^0.12.7",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-icon": "^2.3.3",
+    "semantic-ui-react": "^2.0.3",
     "solc": "^0.4.26",
     "truffle-hdwallet-provider": "^0.0.3",
     "web3": "^1.0.0-beta.26"

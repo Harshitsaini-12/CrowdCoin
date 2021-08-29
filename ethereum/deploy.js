@@ -4,7 +4,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
 'mango soon disagree width cable vocal fetch attract load sniff limit neither',
- 'https://mainnet.infura.io/v3/e7018385c9fe4497aab82d4efd7a8806'
+ 'https://rinkeby.infura.io/v3/e7018385c9fe4497aab82d4efd7a8806'
 );
 
 const web3 = new Web3(provider);
