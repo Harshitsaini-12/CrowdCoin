@@ -7,7 +7,7 @@ export default () =>{
     <Menu >
         <div class="ui centered grid">
         <div class="computer only row">
-            <div  class="column">Made with ❤️ from india </div>
+            <div  class="column">Made with ❤️ by Harshit </div>
         </div>
         </div>
     </Menu>

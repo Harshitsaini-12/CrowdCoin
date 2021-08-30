@@ -4,10 +4,11 @@ import Footer from './Footer';
 import Head from 'next/head';
 import { Container } from 'semantic-ui-react';
 
+
 export default (props) =>{
     return(
-        <Container>
 
+        <Container>
         <Head>
           <link
             rel="stylesheet"

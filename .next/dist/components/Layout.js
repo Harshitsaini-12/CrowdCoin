@@ -30,30 +30,30 @@ exports.default = function (props) {
     return _react2.default.createElement(_semanticUiReact.Container, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 9
+            lineNumber: 11
         }
     }, _react2.default.createElement(_head2.default, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 11
+            lineNumber: 12
         }
     }, _react2.default.createElement('link', {
         rel: 'stylesheet',
         href: '//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css',
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 12
+            lineNumber: 13
         }
     })), _react2.default.createElement(_Header2.default, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 18
+            lineNumber: 19
         }
     }), props.children, _react2.default.createElement(_Footer2.default, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 20
+            lineNumber: 21
         }
     }));
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvTGF5b3V0LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiSGVhZGVyIiwiRm9vdGVyIiwiSGVhZCIsIkNvbnRhaW5lciIsInByb3BzIiwiY2hpbGRyZW4iXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLEFBQU87Ozs7QUFDUCxBQUFPLEFBQVk7Ozs7QUFDbkIsQUFBTyxBQUFZOzs7O0FBQ25CLEFBQU87Ozs7QUFDUCxBQUFTLEFBRVQ7Ozs7OztrQkFBZSxVQUFBLEFBQUMsT0FBUyxBQUNyQjsyQkFDSSxBQUFDOztzQkFBRDt3QkFBQSxBQUVBO0FBRkE7QUFBQSxLQUFBLGtCQUVBLEFBQUM7O3NCQUFEO3dCQUFBLEFBQ0U7QUFERjtBQUFBO2FBQ0UsQUFDTSxBQUNKO2NBRkYsQUFFTzs7c0JBRlA7d0JBSEYsQUFFQSxBQUNFLEFBTUU7QUFORjtBQUNFLHlCQUtBLEFBQUM7O3NCQUFEO3dCQVRKLEFBU0ksQUFDQztBQUREO0FBQUEsY0FUSixBQVVXLEFBQ1AsMEJBQUEsQUFBQzs7c0JBQUQ7d0JBWlIsQUFDSSxBQVdJLEFBSVg7QUFKVztBQUFBO0FBYloiLCJmaWxlIjoiTGF5b3V0LmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9oYXJzaDF0c2ExbjEvRGVza3RvcC9raWNrc3RhcnQifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHMvTGF5b3V0LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiSGVhZGVyIiwiRm9vdGVyIiwiSGVhZCIsIkNvbnRhaW5lciIsInByb3BzIiwiY2hpbGRyZW4iXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLEFBQU87Ozs7QUFDUCxBQUFPLEFBQVk7Ozs7QUFDbkIsQUFBTyxBQUFZOzs7O0FBQ25CLEFBQU87Ozs7QUFDUCxBQUFTLEFBR1Q7Ozs7OztrQkFBZSxVQUFBLEFBQUMsT0FBUyxBQUNyQjsyQkFFSSxBQUFDOztzQkFBRDt3QkFBQSxBQUNBO0FBREE7QUFBQSxLQUFBLGtCQUNBLEFBQUM7O3NCQUFEO3dCQUFBLEFBQ0U7QUFERjtBQUFBO2FBQ0UsQUFDTSxBQUNKO2NBRkYsQUFFTzs7c0JBRlA7d0JBRkYsQUFDQSxBQUNFLEFBTUU7QUFORjtBQUNFLHlCQUtBLEFBQUM7O3NCQUFEO3dCQVJKLEFBUUksQUFDQztBQUREO0FBQUEsY0FSSixBQVNXLEFBQ1AsMEJBQUEsQUFBQzs7c0JBQUQ7d0JBWlIsQUFFSSxBQVVJLEFBSVg7QUFKVztBQUFBO0FBYloiLCJmaWxlIjoiTGF5b3V0LmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9oYXJzaDF0c2ExbjEvRGVza3RvcC9raWNrc3RhcnQifQ==
