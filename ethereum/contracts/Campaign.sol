@@ -1,6 +1,5 @@
 pragma solidity ^0.4.17;
 
-
 contract CampaignFactory {
     address[] public deployedCampaigns;
     
@@ -83,4 +82,20 @@ contract Campaign {
         request.complete = true;
     }
     
+    //view here means we are not changing the function
+    function getSummary() public view returns (
+        uint, uint, uint, uint,address
+    ) {
+        return(
+            minimumContribution,
+            this.balance,
+            requests.length,
+            approversCount,
+            manager
+        );
+    }
+
+    function getRequestsCount() public view returns(uint){
+         return requests.length;
+    }
 }
